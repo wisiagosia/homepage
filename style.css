@@ -1,0 +1,37 @@
+
+body {
+ background-color: rgb(230, 240, 193);
+}
+
+section{
+    background-color: blanchedalmond;
+}
+footer{
+    color: rgb(69, 80, 4);
+}
+h1{
+    color: rgb(12, 49, 170);
+}
+     h2{
+         color: rgba(95, 103, 219, 0.692);
+     }   
+     h3{
+         color: rgb(172, 176, 235);
+        }
+
+    p{
+        color: rgb(172, 165, 165);
+    }
+
+    nav a{
+        color: #028090
+    }
+    a{
+        color: #6d6875
+    }
+    .moj-kolor{
+        color: rgb(12, 49, 170);
+        background-color: rgb(172, 176, 235);
+    }
+
+         

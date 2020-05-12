@@ -1,0 +1,1 @@
+alert("Witajcie na testowej stronie Gosi-Wisi ;)")
